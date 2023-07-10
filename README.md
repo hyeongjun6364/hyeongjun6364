@@ -14,10 +14,12 @@
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 </div>
 
-| First Header | Second Header |
+<h3>Prize</h3>
+
+| period | Title |
 | ------------ | ------------- |
-| Content Cell | Content Cell  |
-| Content Cell | Content Cell  |
+| 2022.07 ~ 2022.09 | KT와 함께하는 AI경진대회[TOP3]  |
+
 
 
 
