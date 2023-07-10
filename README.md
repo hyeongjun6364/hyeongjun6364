@@ -14,10 +14,13 @@
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 </div>
 <br>
-| First Header | Second Header |
-| ------------ | ------------- |
-| Content Cell | Content Cell  |
-| Content Cell | Content Cell  |
+<div>
+	| First Header | Second Header |
+	| ------------ | ------------- |
+	| Content Cell | Content Cell  |
+	| Content Cell | Content Cell  |
+</div>
+
 
 
 
