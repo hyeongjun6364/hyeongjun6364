@@ -18,9 +18,10 @@
 |       PERIOD      |              TITLE             |
 |:-----------------:|:------------------------------:|
 | 2022.07 ~ 2022.09 | KT와 함께하는 AI경진대회[TOP3] |
-> 
-> 
+
+
 <br>
+
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lhj6364)](https://solved.ac/lhj6364)
