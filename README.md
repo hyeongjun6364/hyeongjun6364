@@ -6,6 +6,7 @@
 </div>
 <br>
 
+
 <div>
 	<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=REACT&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
@@ -13,6 +14,13 @@
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 </div>
 <br>
+## prize :trophy:
+|       PERIOD      |              TITLE             |
+|:-----------------:|:------------------------------:|
+| 2022.07 ~ 2022.09 | KT와 함께하는 AI경진대회[TOP3] |
+
+> 
+> 
 <br>
 <p>🏆 Baekjoon solved rank 🏆</p>
 	
