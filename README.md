@@ -1,6 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=200&section=header&text=Hyeongjun%20github&fontSize=90)
-<div >
+<div align=left >
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
