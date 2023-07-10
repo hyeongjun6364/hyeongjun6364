@@ -4,6 +4,8 @@
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
 </div>
+
+
 <br>
 
 
@@ -14,6 +16,8 @@
 	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
 </div>
 
+
+
 <h3>Prize</h3>
 
 | period | Title |
@@ -22,12 +26,9 @@
 
 
 <br>
-
 <h3>Activities</h3>
 <p>(23.03 ~) 멋쟁이사자처럼 11기 at 상명대학교 </p>
 <p>(22.09 ~) Google Development Student Club 2기 at 상명대학교</p>
-
-
 
 
 <br>
