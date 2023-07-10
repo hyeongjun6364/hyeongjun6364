@@ -21,6 +21,11 @@
 | 2022.07 ~ 2022.09 | KT와 함께하는 AI경진대회[TOP3]  |
 
 
+<br>
+
+<h3>Activities</h3>
+<p>(23.03 ~) 멋쟁이사자처럼 11기 at 상명대학교 </p>
+<p>(22.09 ~) Google Development Student Club 2기 at 상명대학교</p>
 
 
 
