@@ -29,8 +29,8 @@
 
 <br>
 <h3>Activities</h3>
-<p>(23.03 ~) 멋쟁이사자처럼 11기 at SangMyung.Univ </p>
-<p>(22.09 ~ 23.08) Google Development Student Club 2기 at SangMyung.Univ</p>
+<p>(23.03 ~) 멋쟁이사자처럼 11기 at 상명대학교 </p>
+<p>(22.09 ~ 23.08) Google Development Student Club 2기 at 상명대학교</p>
 
 
 <br>
