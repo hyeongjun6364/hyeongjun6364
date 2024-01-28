@@ -29,9 +29,9 @@
 
 <br>
 <h3>Activities</h3>
-<p>(24.01 ~ ) 멋쟁이사자처럼 12기 (대표) at 상명대학교 </p>
-<p>(23.01 ~ 23.12) 멋쟁이사자처럼 11기 (member) at 상명대학교 </p>
-<p>(22.09 ~ 23.08) Google Development Student Club 2기 (member) at 상명대학교 </p>
+<p>(24.01 ~ ) 상명대학교 멋쟁이사자처럼 12기 대표</p>
+<p>(23.01 ~ 23.12) 상명대학교 멋쟁이사자처럼 11기 </p>
+<p>(22.09 ~ 23.08) 상명대학교 Google Development Student Club 2기 </p>
 
 
 <br>
