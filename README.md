@@ -5,10 +5,10 @@
 
 <h3>Education & Experience</h3>
 <p>(19.03 ~ ing) 상명대학교 소프트웨어학과</p>
-<p>(24.01 ~ ing) SMU 멋쟁이사자처럼 12기 대표</p>
-<p>(23.01 ~ 23.12) SMU 멋쟁이사자처럼 11기 부원 </p>
-<p>(22.09 ~ 23.08) SMU Google Development Student Club 2기 부원</p>
 <p>(22.08.08 ~ 22.08.12)﻿ “인공지능_데이터 분석과 이미지 처리를 위한 딥러닝 활용“ 과정 수료 / 기관: 정보통신산업진흥원
+<p>(22.09 ~ 23.08) SMU Google Development Student Club 2기 부원</p>
+<p>(23.01 ~ 23.12) SMU 멋쟁이사자처럼 11기 부원 </p>
+<p>(24.01 ~ ing) SMU 멋쟁이사자처럼 12기 대표</p>
 </p>
 
 <div align=left >
