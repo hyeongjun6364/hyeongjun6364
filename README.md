@@ -19,7 +19,7 @@
 
 <br>
 <div>
-	<img src= "https://skillicons.dev/icons?i=js,html,css,wasm" />
+	<img src= "https://skillicons.dev/icons?i=js,html,css,sass,styledcomponents,redux" />
 	<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=REACT&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -27,8 +27,11 @@
 	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white" />
 	<img src="https://img.shields.io/badge/linux-FCC624?style=flat&logo=linux&logoColor=white" />
 </div>
-
-
+<br>
+<h3>Studying</h3>
+<div>
+	<img src= "https://skillicons.dev/icons?i=ts,nextjs" />
+</div>
 
 <h3>Prize</h3>
 
