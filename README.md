@@ -28,7 +28,7 @@
 	<img src="https://img.shields.io/badge/Sass-cc6699?style=for-the-badge&logo=Sass&logoColor=white" />
 	<img src="https://img.shields.io/badge/styled-components-cc6699?style=for-the-badge&logo=styled-components&logoColor=white" />
 	<img src="https://img.shields.io/badge/Framer-0055ff?style=for-the-badge&logo=Framer&logoColor=white" />
-	<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+	
 </div>
 <h3>Studying</h3>
 <div>
