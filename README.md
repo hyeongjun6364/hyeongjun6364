@@ -12,7 +12,7 @@
 </p>
 
 <div align=left >
-	<h3>📚 Main Skill 📚</h3>
+	<h3> Main Skill </h3>
 	
 </div>
 
