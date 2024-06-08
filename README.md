@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=200&section=header&text=Hyeongjun%20github&fontSize=90)
+# 성장이 즐거운 개발자 임형준입니다.
 <div align=left >
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
