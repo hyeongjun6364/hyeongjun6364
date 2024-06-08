@@ -30,7 +30,8 @@
 <br>
 <h3>project</h3>
 
-| period | Title | Role |
+
+| period | Title |
 | ------------ | ------------- |
 | 2024.04 ~ 2024.05 | Time Makes Society | Frontend |
 | 2024.02/12 ~ 2024.02/23 | a minute society | Frontend |
