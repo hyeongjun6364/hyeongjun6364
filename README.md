@@ -2,6 +2,15 @@
 # 성장이 즐거운 개발자 임형준입니다.👋
 
 
+
+<h3>Education & Experience</h3>
+<p>(19.03 ~ ing) 상명대학교 소프트웨어학과</p>
+<p>(24.01 ~ ing) 상명대학교 멋쟁이사자처럼 12기 대표</p>
+<p>(23.01 ~ 23.12) 상명대학교 멋쟁이사자처럼 11기 부원 </p>
+<p>(22.09 ~ 23.08) 상명대학교 Google Development Student Club 2기 부원</p>
+<p>(22.08.08 ~ 22.08.12)﻿ “인공지능_데이터 분석과 이미지 처리를 위한 딥러닝 활용“ 과정 수료 / 기관: 정보통신산업진흥원
+</p>
+
 <div align=left >
 	<h3>📚 Main Skill 📚</h3>
 	
@@ -10,7 +19,7 @@
 
 <br>
 <div>
-	[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+	[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)]
 	<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=REACT&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -39,13 +48,6 @@
 | 2023.09 ~ 2023.09 | 상명대 축제사이트 ﻿“비상(飛上)” | Front-End |
 | 2022.07 ~ 2022.09 | 도로시설물 유지보수 프로젝트 | AI |
 <br>
-<h3>Education & Experience</h3>
-<p>(19.03 ~ ing) 상명대학교 소프트웨어학과</p>
-<p>(24.01 ~ ing) 상명대학교 멋쟁이사자처럼 12기 대표</p>
-<p>(23.01 ~ 23.12) 상명대학교 멋쟁이사자처럼 11기 부원 </p>
-<p>(22.09 ~ 23.08) 상명대학교 Google Development Student Club 2기 부원</p>
-<p>(22.08.08 ~ 22.08.12)﻿ “인공지능_데이터 분석과 이미지 처리를 위한 딥러닝 활용“ 과정 수료 / 기관: 정보통신산업진흥원
-</p>
 
 
 <br>
