@@ -26,7 +26,7 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 	<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white" />
- <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white" />
+ 	<img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white" />
 
 </div>
 <br>
