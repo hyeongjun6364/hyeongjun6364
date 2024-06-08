@@ -32,12 +32,12 @@
 
 
 | period | Title | role |
-| ------------ | ------------- | -------------|
-| 2024.04 ~ 2024.05 | Time Makes Society | Frontend |
-| 2024.02/12 ~ 2024.02/23 | a minute society | Frontend |
-| 2023.09 ~ 2023.10 | Cafe:In Project | Frontend |
-| 2023.09 ~ 2023.09 | 상명대 축제사이트 ﻿“비상(飛上)” | Frontend |
-| 2022.07 ~ 2022.09 | 도로시설물 유지보수 프로젝트 |: AI :|
+| ------------ | ------------- | :-------------:|
+| 2024.04 ~ 2024.05 | Time Makes Society | Front-End |
+| 2024.02/12 ~ 2024.02/23 | a minute society | Front-End |
+| 2023.09 ~ 2023.10 | Cafe:In Project | Front-End |
+| 2023.09 ~ 2023.09 | 상명대 축제사이트 ﻿“비상(飛上)” | Front-End |
+| 2022.07 ~ 2022.09 | 도로시설물 유지보수 프로젝트 | AI |
 <br>
 <h3>Education & Experience</h3>
 <p>(19.03 ~ ing) 상명대학교 소프트웨어학과</p>
