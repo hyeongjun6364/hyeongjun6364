@@ -1,16 +1,16 @@
 
 # 성장이 즐거운 개발자 임형준입니다.👋
 
+
 <div align=left >
-	<h3>📚 Tech Stack 📚</h3>
-	<p>✨ Platforms & Languages ✨</p>
+	<h3>📚 Main Skill 📚</h3>
+	
 </div>
 
 
 <br>
-
-
 <div>
+	[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 	<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=REACT&logoColor=white" />
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
@@ -32,7 +32,7 @@
 
 
 | period | Title | role |
-| ------------ | ------------- | :-------------:|
+| ------------ | ------------- | -------------|
 | 2024.04 ~ 2024.05 | Time Makes Society | Front-End |
 | 2024.02/12 ~ 2024.02/23 | a minute society | Front-End |
 | 2023.09 ~ 2023.10 | Cafe:In Project | Front-End |
