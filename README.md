@@ -1,5 +1,6 @@
+![image](https://github.com/hyeongjun6364/hyeongjun6364/assets/100831607/3e58da25-854f-4679-9f14-1afc5b4b2a46)
+# 성장이 즐거운 개발자 임형준입니다.👋
 
-# 성장이 즐거운 개발자 임형준입니다.
 <div align=left >
 	<h3>📚 Tech Stack 📚</h3>
 	<p>✨ Platforms & Languages ✨</p>
@@ -29,10 +30,13 @@
 
 
 <br>
-<h3>Activities</h3>
+<h3>Education & Experience</h3>
+<p>(19.03 ~ 25.02) 상명대학교 소프트웨어학과</p>
 <p>(24.01 ~ ) 상명대학교 멋쟁이사자처럼 12기 대표</p>
 <p>(23.01 ~ 23.12) 상명대학교 멋쟁이사자처럼 11기 </p>
 <p>(22.09 ~ 23.08) 상명대학교 Google Development Student Club 2기 </p>
+<p>(22.08.08 ~ 22.08.12)﻿ “인공지능_데이터 분석과 이미지 처리를 위한 딥러닝 활용“ 과정 수료 / 기관: 정보통신산업진흥원
+</p>
 
 
 <br>
