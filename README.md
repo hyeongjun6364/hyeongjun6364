@@ -31,8 +31,8 @@
 <h3>project</h3>
 
 
-| period | Title |
-| ------------ | ------------- |
+| period | Title | role |
+| ------------ | ------------- | -------------|
 | 2024.04 ~ 2024.05 | Time Makes Society | Frontend |
 | 2024.02/12 ~ 2024.02/23 | a minute society | Frontend |
 | 2023.09 ~ 2023.10 | Cafe:In Project | Frontend |
