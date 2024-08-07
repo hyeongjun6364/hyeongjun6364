@@ -1,7 +1,4 @@
 
-
-<p>안녕하세요, 프론트엔드 개발에 관심이 많은 상명대학교 4학년에 재학중인 임형준입니다.</p> 
-<p>현재는 TypeScript, Nextjs, tailwind에 대해 공부중입니다. </p>
 <h3>Education & Experience</h3>
 <p>상명대학교 소프트웨어학과 (19.03 ~ ing) </p>
 <p>“인공지능_데이터 분석과 이미지 처리를 위한 딥러닝 활용“ 과정 수료 / 기관: 정보통신산업진흥원(22.08.08 ~ 22.08.12)﻿ </p>
@@ -57,9 +54,4 @@
 <br>
 
 
-<br>
-
-<p>🏆 Baekjoon solved rank 🏆</p>
-	
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=lhj6364)](https://solved.ac/lhj6364)
 </div>
