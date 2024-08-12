@@ -46,6 +46,7 @@
 
 | period | Title | role |
 | ------------ | ------------- | -------------|
+| 2024.07 ~ 2024.08 | MoodMate | Front-End |
 | 2024.04 ~ 2024.05 | Time Makes Society | Front-End |
 | 2024.02/12 ~ 2024.02/23 | a minute society | Front-End |
 | 2023.09 ~ 2023.10 | Cafe:In Project | Front-End |
