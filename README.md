@@ -23,7 +23,7 @@
 	<img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white" />
 	<img src="https://img.shields.io/badge/Sass-cc6699?style=for-the-badge&logo=Sass&logoColor=white" />
 	<img src="https://img.shields.io/badge/styled-components-cc6699?style=for-the-badge&logo=styled-components&logoColor=white" />
-	<img src="https://img.shields.io/badge/Framer-0055ff?style=for-the-badge&logo=Framer&logoColor=white" />
+	
 	
 </div>
 <h3>Studying</h3>
