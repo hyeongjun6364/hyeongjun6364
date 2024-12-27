@@ -6,16 +6,7 @@
 <p>멋쟁이사자처럼 11기 FE (23.01 ~ 23.12)</p>
 <p>멋쟁이사자처럼 12기 대표 (24.01 ~ 24.12) </p>
 </p>
-
-<div align=left >
-	<h3> Main Skill </h3>
-	
-</div>
-
-
 <br>
-
-
 <h3>Prize</h3>
 
 | period | Title |
