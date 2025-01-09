@@ -19,12 +19,12 @@
 
 | period | Title | role |
 | ------------ | ------------- | -------------|
-| 2024.07 ~ 2024.08 | MoodMate | Front-End |
-| 2024.04 ~ 2024.05 | Time Makes Society | Front-End |
-| 2024.02/12 ~ 2024.02/23 | a minute society | Front-End |
-| 2023.09 ~ 2023.10 | Cafe:In Project | Front-End |
-| 2023.09 ~ 2023.09 | 상명대학교 축제사이트 ﻿“비상(飛上)” | Front-End |
-| 2022.07 ~ 2022.09 | 도로시설물 유지보수 프로젝트 | AI |
+| 2024.07 ~ 2024.08 | [MoodMate] (https://github.com/LikeLion-12th-mood-mate/front-end) | Front-End |
+| 2024.04 ~ 2024.05 | [Time Makes Society] (https://github.com/Time-Makes-Society/TMS_FrontEnd) | Front-End |
+| 2024.02/12 ~ 2024.02/23 | [a minute society] (https://github.com/a-minute-society/front-end) | Front-End |
+| 2023.09 ~ 2023.10 | [Cafe:In Project] (https://github.com/Team-cafein/SoftwareProject_CafeIn_Front) | Front-End |
+| 2023.09 ~ 2023.09 | [상명대학교 축제사이트 ﻿“비상(飛上)”] (https://github.com/hyeongjun6364/2023_Sangmyung_Festa_FE) | Front-End |
+| 2022.07 ~ 2022.09 | [도로시설물 유지보수 프로젝트] (https://github.com/hyeongjun6364/kt_al_road_facility_maintenance) | AI |
 <br>
 
 
