@@ -9,7 +9,6 @@
 <br/>
 
 ## 이력
-- <strong>프로그래머스 데브코스 4기</strong> [24.08 ~ 25.02]
 - <strong>멋쟁이사자처럼 11기 FE 회원, 12기 대표</strong> [23.01 ~ 24.12]
 - <strong>Google Development Student Club 2기</strong> [22.09 ~ 23.08]
 - <strong>“인공지능_데이터 분석과 이미지 처리를 위한 딥러닝 활용“ 과정 수료 / 기관: 정보통신산업진흥원</strong> [22.08.08 ~ 22.08.12]﻿ </p>
