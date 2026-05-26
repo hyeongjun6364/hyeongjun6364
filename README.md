@@ -1,7 +1,7 @@
 ### 안녕하세요!👋 프론트엔드 엔지니어 임형준입니다.
 
 
-## 이력
+### 이력
 - <strong>인터엑스 GEN.AI R&D팀 프론트엔드 엔지니어 인턴</strong> [26.02 ~ ]
 - <strong>프로그래머스 데브코스 4기</strong> [24.08 ~ 25.02]
 - <strong>멋쟁이사자처럼 11기 FE 회원, 12기 대표</strong> [23.01 ~ 24.12]
@@ -11,5 +11,7 @@
 
 <br>
 
+### Open Source Contributions
+**Mantine**: fix clear button not showing for falsy primitive values. [PR #8901](https://github.com/mantinedev/mantine/pull/8901)
 
 
