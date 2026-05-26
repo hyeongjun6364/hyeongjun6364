@@ -12,6 +12,6 @@
 <br>
 
 ### Open Source Contributions
-**Mantine**: fix clear button not showing for falsy primitive values. [PR #8901](https://github.com/mantinedev/mantine/pull/8901)
+- **Mantine**: fix clear button not showing for falsy primitive values. [PR #8901](https://github.com/mantinedev/mantine/pull/8901)
 
 
